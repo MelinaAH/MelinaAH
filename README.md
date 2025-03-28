@@ -5,35 +5,35 @@ I’m a passionate Future UX/UI Designer who loves to solve problems. I’m driv
 My educational journey at Tampere University reflects my deep commitment to UX/UI design, usability, accessibility, and web technologies. I have tailored my studies around these interests. My bachelor’s thesis focused on accessibility and web development, allowing me to justify design decisions based on WCAG standards. Additionally, my nearly completed studies in Computing Sciences and Human-Technology Interaction have equipped me with a deep understanding of user-centred design principles. My master’s thesis, “The Suitability of Digital Assistive Technologies for Maintaining the Independence of Individuals with Dementia”, includes a comprehensive literature review and a user study with data analysis, showcasing my ability to conduct thorough research and apply findings to real-world problems.
 
 **Design skills**
-•	Graphic Design
-•	UX/UI Design
-•	Experience-driven design
-•	User-centered Design
-•	Design Thinking
-•	Cross-cultural design
-•	User research
-•	User personas, journey maps and scenarios
-•	Concept Development
-•	Wireframing, prototyping and prototype evaluation
-•	Usability Evaluation/testing
-•	Figma
-•	Adobe InDesign, Illustrator, PhotoShop and XD
+-	Graphic Design
+-	UX/UI Design
+-	Experience-driven design
+-	User-centered Design
+-	Design Thinking
+-	Cross-cultural design
+-	User research
+-	User personas, journey maps and scenarios
+-	Concept Development
+-	Wireframing, prototyping and prototype evaluation
+-	Usability Evaluation/testing
+-	Figma
+-	Adobe InDesign, Illustrator, PhotoShop and XD
 
 **Programming skills**
-•	React.js
-•	JavaScript
-•	HTML5
-•	CSS
-•	NodeJS
-•	TypeScript
-•	Vue
-•	Elm
-•	MongoDB
-•	Java
-•	Python
-•	C++
-•	C
-•	SQL
+-	React.js
+-	JavaScript
+-	HTML5
+-	CSS
+-	NodeJS
+-	TypeScript
+-	Vue
+-	Elm
+-	MongoDB
+-	Java
+-	Python
+-	C++
+-	C
+-	SQL
 
 **Check out my UX portfolio**
 https://www.behance.net/melinaaalto
