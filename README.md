@@ -35,5 +35,5 @@ My educational journey at Tampere University reflects my deep commitment to UX/U
 -	C
 -	SQL
 
-**Check out my UX portfolio**
+**Check out my UX/UI portfolio**
 https://www.behance.net/melinaaalto
